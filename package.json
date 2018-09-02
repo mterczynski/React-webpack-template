@@ -1,15 +1,14 @@
 {
   "name": "react-webpack-template",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Template for applications that use React and Webpack",
+  "main": "src/main.js",
   "scripts": {
     "watch": "webpack --progress --watch",
     "server": "webpack-dev-server --open",
     "build": "webpack --progress -p",
     "start": "npm run watch | npm run server"
   },
-  "keywords": [],
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
