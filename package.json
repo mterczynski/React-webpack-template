@@ -9,7 +9,7 @@
     "build": "webpack --progress -p",
     "start": "npm run watch | npm run server"
   },
-  "devDependencies": {
+  "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
