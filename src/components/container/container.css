@@ -1,0 +1,16 @@
+.Container {
+	background: black;
+	font-family: Consolas;
+	color: white;
+	margin: 20px auto;
+	width: 90%;
+	max-width: 1200px;
+	min-height: 600px;
+	border-radius: 15px;
+	font-size: 1.5em;
+	padding: 15px;
+}
+
+.Container h2{
+	font-weight: normal;
+}
